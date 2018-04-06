@@ -12,7 +12,7 @@ The frontend will be an Ionic app that will be offline first, with very simple w
 
 ### Timelines
 
-The app will be built as a part of the ERPNex Summer of Code project from May to August 2018, by students and who will be mentored by the ERPNext team.
+The app will be built as a part of the ERPNext Summer of Code project from May to August 2018, by students and who will be mentored by the ERPNext team.
 
 [Project Tasks and Discussion](https://github.com/frappe-apps/accounting/issues) are listed in GitHub Issues.
 
